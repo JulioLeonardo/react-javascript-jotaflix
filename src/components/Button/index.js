@@ -22,4 +22,4 @@ const Button = styled(Link)`
   }
 `;
 
-export default Button
+export default Button;
